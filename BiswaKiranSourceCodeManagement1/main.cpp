@@ -6,9 +6,11 @@
 //
 
 #include <iostream>
+using namespace std
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, Universe!\n";
+int main() {
+    
+    cout << "Hello, Universe!\n";
+    
     return 0;
 }
